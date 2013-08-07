@@ -1,7 +1,0 @@
-permalink: /:categories/:title
-baseurl: /planets
-exclude: ['data']
-github: "http://github.com/hrwgc/planets"
-languages:
-  - name: 'English'
-    key: 'en'
